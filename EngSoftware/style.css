@@ -1,0 +1,46 @@
+body{
+  background-image: url("https://engenharia360.com/wp-content/uploads/2016/05/engenharia2-de-software-guia-das-engenharias.jpg.jpg");
+  background-size: 100%;
+}
+.caixa{
+  background-color: white;
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.titulo{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-family: Cambria;
+  font-size: 300%;
+}
+.subtitulo{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: Cambria;
+}
+.texto{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: Gill Sans MT;
+}
+.referencia{
+  margin-left: 20px;
+  margin-right: 20px;
+  color: dimgray;
+  font-size: 90%;
+  font-family: Arial;
+}
+.barra{
+  background-color: rgb(92, 157, 255);
+  margin-top: 20px;
+}
+.curso{
+  margin-left: 20px;
+  color: rgb(80, 80, 80);
+  font-family: monospace;
+  font-size: 120%
+}
