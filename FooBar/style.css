@@ -1,0 +1,39 @@
+#resultado{
+  height: 2240px;
+  margin: 40px;
+  font-size:140%;
+  padding: 20px;
+  background-color: rgb(233, 232, 232);
+}
+.titulo{
+  font-family: sans-serif;
+  background-color: pink;
+  padding: 15px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.subtitulo{
+  line-height: 30%;
+  font-weight: normal;
+}
+.info{
+  margin: 40px;
+  float: right;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  font-family: courier;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.caixa{
+  margin: 50px;
+  background-color: white;
+  border-radius: 20px;
+}
+body{
+  background-color: rgb(172, 255, 255);
+}
